@@ -15,7 +15,7 @@
     "mobile": "17750258532",
     "github": "https://github.com/TerryYaha",
     "zhihu": "",
-    "workExpYear": "一年九个月",
+    "workExpYear": "一年十个月",
     "workPlace": "上海",
     "positionTitle": "前端工程师"
   },
@@ -24,7 +24,7 @@
       "edu_time": ["2017.09.01", "2021.06.30"],
       "school": "福州大学 至诚学院",
       "major": "计算机科学与技术(主)   金融工程(辅)",
-      "academic_degree": "本科",
+      "academic_degree": "本科"
     }
   ],
   "awardList": [
@@ -33,14 +33,14 @@
   ],
   "workExpList": [
     {
-        "work_time": ["2022.01", "至今"],
+      "work_time": ["2022.01", "至今"],
       "company_name": "上海唯偲科技有限公司",
       "department_name": "研发前端组",
       "work_desc": "1. 参与需求宣讲，讨论，根据产品，UI/UX稿完成前端开发\n2. 基础、业务组件的设计，主动担起需求小组长的任务，和测试，产品沟通\n3. 负责移动端和PC端，登录，首页，路由，场景互动等模块，以及负责部分编辑器需求。",
       "dataIndex": 0
     },
     {
-        "work_time": ["2021.01", "2022.01"],
+      "work_time": ["2020.12", "2022.01"],
       "company_name": "美库尔上海",
       "department_name": "Analytics Team",
       "work_desc": "Tech-analytics    \n1. 任务由manager拆解，根据需求完成前端Analytics platform项目；也负责爬虫模块对数据的爬取和处理数据；\n2.使用Django开发后台管理系统，抖音，虎扑等平台数据进行拉取和存储，方便用户筛选数据;\n3.对Azkaban调度器进行前后端改造，适应复杂的业务需求;",
@@ -75,7 +75,7 @@
     {
       "skill_name": "Python/django、flask、scrapy",
       "skill_level": 85,
-      "skill_desc": "开发过管理后台，爬虫、",
+      "skill_desc": "丰富的实践经验，熟悉管理后台，爬虫，数据分析等。",
       "dataIndex": 4
     }
   ],
@@ -93,7 +93,7 @@
       "project_role": "代码贡献者",
       "project_time": "2021.07 - 2021.09 / 2022.02 - 2022.03",
       "project_desc": "此项目为 Apache Dolphinscheduler(DS)海豚调度开源活动（summmer star），学员选择对应的项目功能模块，社区分配导师，在导师助力下完成项目开发。此项目是用户资源授权页一功能模 块，需要将原下拉框资源选择修改穿梭框树形结构数据选择资源。",
-      "project_content": "1.需熟悉项目前人组件，需基于前人开发组件修改适应业务，2.对elementui-穿梭框进行封装适应任务调度业务需求",
+      "project_content": "1.需熟悉项目前人组件，需基于前人开发组件修改适应业务，2.对elementui进行封装适应任务调度业务需求，提pr进行code review",
       "dataIndex": 1
     },
     {
