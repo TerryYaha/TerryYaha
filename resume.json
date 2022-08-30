@@ -1,1 +1,113 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":false},"profile":{"name":"陶云亮","email":"yunltao@outlook.com","mobile":"17750258532","github":"https://github.com/TerryYaha","zhihu":"","workExpYear":"一年九个月","workPlace":"上海","positionTitle":"前端工程师"},"educationList":[{"edu_time":["2017.09.01","2021.06.30"],"school":"福州大学 至诚学院","major":"计算机科学与技术(主)      金融工程(辅)"}],"awardList":[{"award_info":"英语 CET6","award_time":"2018","dataIndex":0},{"award_info":"证券从业资格证","award_time":"2020.06","dataIndex":1}],"workExpList":[{"work_time":"，","company_name":"上海唯偲科技有限公司","department_name":"研发前端组","work_desc":"1. 参与需求宣讲，讨论，根据产品，UI/UX稿完成前端开发\n2. 基础、业务组件的设计，主动担起需求小组长的任务，和测试，产品沟通\n3. 负责移动端和PC端，登录，首页，路由，场景互动等模块，以及负责部分编辑器需求。","dataIndex":0},{"work_time":"2021.01","company_name":"美库尔上海","department_name":"Analytics Team","work_desc":"Tech-analytics        2021.01 ~  2022.01\n1. 任务由manager拆解，根据需求完成前端Analytics platform项目；也负责爬虫模块对数据的爬取和处理数据；\n2.使用Django开发后台管理系统，抖音，虎扑等平台数据进行拉取和存储，方便用户筛选数据;\n3.对Azkaban调度器进行前后端改造，适应复杂的业务需求;","dataIndex":1}],"skillList":[{"skill_name":"HTML 和 CSS","skill_desc":"","skill_level":88,"dataIndex":0},{"skill_name":"TypeScript / JavaScript","skill_level":85,"dataIndex":1,"skill_desc":"有ts和vue3开发经验，也参与过需要复杂逻辑的js的编辑器项目"},{"skill_name":"Vue/Vue全家桶","skill_desc":"组件开发经验和模块化经验，也参与过vue项目相关开源","skill_level":90,"dataIndex":2},{"skill_name":"React ","skill_desc":"组件封装和基本项目实践","skill_level":50,"dataIndex":3},{"skill_name":"Python/django、flask、scrapy","skill_level":85,"skill_desc":"开发过管理后台，爬虫、","dataIndex":4}],"projectList":[{"project_name":"云现场PC端，移动端、编辑器","project_role":"核心开发者","project_time":"2019.04 - 2020.06","project_desc":"此项目是公司主打产品，用户通过云现场链接进入云现场，或者用户通过首页和我的进入云现场， 在进入云现场之前，需要有管理员创建并编辑好云现场，设置人员权限，白名单，地图密码等，用户进入云 现场后，用户可以活动，聊天，音视频，碰撞，等进行社交。","project_content":"1. 封装常用组件，规范文档，统一维护 2.重构原代码设计，修改组件之间结构达到模块化管理效果,并替换 Ts+Vue3.0 开发，同时推进 eslint。 commitlint 规范和 mixin 使用以简化 css 代码.3.编辑器：和 cocos 对接需求，根据产品参与功能开发.4优化请求,webpack等，提升项目运行速度；","dataIndex":0},{"project_name":"Apache DolphinScheduler 开源(用户资源授权更换穿梭框基于 vue)","project_role":"代码贡献者","project_time":"2018.07 - 2019.04 / 2020.07 - 至今","project_desc":"此项目为 Apache Dolphinscheduler(DS)海豚调度开源活动（summmer star），学员选择对应的项目功能模块，社区分配导师，在导师助力下完成项目开发。此项目是用户资源授权页一功能模 块，需要将原下拉框资源选择修改穿梭框树形结构数据选择资源。","project_content":"1.需熟悉项目前人组件，需基于前人开发组件修改适应业务，2.对elementui-穿梭框进行封装适应任务调度业务需求","dataIndex":1},{"project_name":"基于 React 共享单车管理后台","project_role":"核心开发者","project_time":"2019 - 至今","project_desc":"系城市所有共享单车管理平台，管理人员在后台可充值用户钱包，用户使用车辆记录，对车可以 上锁，定位，查看使用状况，次数，等等，方便用户管理员一站式使用和管理共享单车服务","project_content":"1.对基础组件进行封装和模块化管理  2.使用 BrowserRouter 对路由集中管理，实现手动跳转，和传参等操作  3.使用高阶函数，纯函数，PureComponent（组件优化）去开发  4.使用 MySQL 对数据库进行设计和开发，django 采用 MVC 设计模式，也使用 Mock 对数据进行模拟","dataIndex":2}],"workList":[],"aboutme":{"aboutme_desc":"🌱 Things have a way of working themselves out. \n😈 能力项：和团队协作的沟通能力，执行能力，工作同步和总结能力，自驱型前端工程师。毕业之际在一家咨询外企任职一年Python前后端开发，任职期间，也为客户公司提供数据集成和管理的服务。后不甘于业务技术受限，辗转至元宇宙创业公司至今。与此同时，期间也积极参加了 Apache DolphinScheduler（Apache大数据顶流任务调度框架）开源社区的代码commit。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": false },
+  "profile": {
+    "name": "陶云亮",
+    "email": "yunltao@outlook.com",
+    "mobile": "17750258532",
+    "github": "https://github.com/TerryYaha",
+    "zhihu": "",
+    "workExpYear": "一年九个月",
+    "workPlace": "上海",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2017.09.01", "2021.06.30"],
+      "school": "福州大学 至诚学院",
+      "major": "计算机科学与技术(主)   金融工程(辅)",
+      "academic_degree": "本科",
+    }
+  ],
+  "awardList": [
+    { "award_info": "英语 CET6", "award_time": "2018", "dataIndex": 0 },
+    { "award_info": "证券从业资格证", "award_time": "2020.06", "dataIndex": 1 }
+  ],
+  "workExpList": [
+    {
+        "work_time": ["2022.01", "至今"],
+      "company_name": "上海唯偲科技有限公司",
+      "department_name": "研发前端组",
+      "work_desc": "1. 参与需求宣讲，讨论，根据产品，UI/UX稿完成前端开发\n2. 基础、业务组件的设计，主动担起需求小组长的任务，和测试，产品沟通\n3. 负责移动端和PC端，登录，首页，路由，场景互动等模块，以及负责部分编辑器需求。",
+      "dataIndex": 0
+    },
+    {
+        "work_time": ["2021.01", "2022.01"],
+      "company_name": "美库尔上海",
+      "department_name": "Analytics Team",
+      "work_desc": "Tech-analytics    \n1. 任务由manager拆解，根据需求完成前端Analytics platform项目；也负责爬虫模块对数据的爬取和处理数据；\n2.使用Django开发后台管理系统，抖音，虎扑等平台数据进行拉取和存储，方便用户筛选数据;\n3.对Azkaban调度器进行前后端改造，适应复杂的业务需求;",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "",
+      "skill_level": 88,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 85,
+      "dataIndex": 1,
+      "skill_desc": "有ts和vue3开发经验，也参与过需要复杂逻辑的js的编辑器项目"
+    },
+    {
+      "skill_name": "Vue/Vue全家桶",
+      "skill_desc": "组件开发经验和模块化经验，也参与过vue项目相关开源",
+      "skill_level": 90,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "React ",
+      "skill_desc": "组件封装和基本项目实践",
+      "skill_level": 50,
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "Python/django、flask、scrapy",
+      "skill_level": 85,
+      "skill_desc": "开发过管理后台，爬虫、",
+      "dataIndex": 4
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "云现场PC端，移动端、编辑器",
+      "project_role": "核心开发者",
+      "project_time": "2022.01 - 至今",
+      "project_desc": "此项目是公司主打产品，用户通过云现场链接进入云现场，或者用户通过首页和我的进入云现场， 在进入云现场之前，需要有管理员创建并编辑好云现场，设置人员权限，白名单，地图密码等，用户进入云 现场后，用户可以活动，聊天，音视频，碰撞，等进行社交。",
+      "project_content": "1. 封装常用组件，规范文档，统一维护 2.重构原代码设计，修改组件之间结构达到模块化管理效果,并替换 Ts+Vue3.0 开发，同时推进 eslint。 commitlint 规范和 mixin 使用以简化 css 代码.3.编辑器：和 cocos 对接需求，根据产品参与功能开发.4优化请求,webpack等，提升项目运行速度；",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "Apache DolphinScheduler 开源(用户资源授权更换穿梭框基于 vue，其他)",
+      "project_role": "代码贡献者",
+      "project_time": "2021.07 - 2021.09 / 2022.02 - 2022.03",
+      "project_desc": "此项目为 Apache Dolphinscheduler(DS)海豚调度开源活动（summmer star），学员选择对应的项目功能模块，社区分配导师，在导师助力下完成项目开发。此项目是用户资源授权页一功能模 块，需要将原下拉框资源选择修改穿梭框树形结构数据选择资源。",
+      "project_content": "1.需熟悉项目前人组件，需基于前人开发组件修改适应业务，2.对elementui-穿梭框进行封装适应任务调度业务需求",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "基于 React 共享单车管理后台",
+      "project_role": "核心开发者",
+      "project_time": "2022.04 - 至今",
+      "project_desc": "系城市所有共享单车管理平台，管理人员在后台可充值用户钱包，用户使用车辆记录，对车可以 上锁，定位，查看使用状况，次数，等等，方便用户管理员一站式使用和管理共享单车服务",
+      "project_content": "1.对基础组件进行封装和模块化管理  2.使用 BrowserRouter 对路由集中管理，实现手动跳转，和传参等操作  3.使用高阶函数，纯函数，PureComponent（组件优化）去开发  4.使用 MySQL 对数据库进行设计和开发，django 采用 MVC 设计模式，也使用 Mock 对数据进行模拟",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 Things have a way of working themselves out. \n😈 能力项：和团队协作的沟通能力，执行能力，工作同步和总结能力，自驱型前端工程师。毕业之际在一家咨询外企任职一年Python前后端开发，任职期间，也为客户公司提供数据集成和管理的服务。后不甘于业务技术受限，辗转至元宇宙创业公司至今。与此同时，期间也积极参加了 Apache DolphinScheduler（Apache大数据顶流任务调度框架）开源社区的代码commit。\n    "
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
